@@ -129,4 +129,4 @@ Your repository should contain one or several notebooks with your solutions.
 
 - What is the idea of the Diffusion Model? Try to implement it on the mnist dataset
 
-💡 [Tap here](https://forms.yandex.ru/cloud/646b47de73cee708d97f0b1a/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
+>Please leave feedback on the project in the [feedback form.](https://forms.yandex.ru/cloud/646b47de73cee708d97f0b1a/) 
